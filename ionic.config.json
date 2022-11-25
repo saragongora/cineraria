@@ -1,0 +1,8 @@
+{
+  "name": "cineraria",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "649360fa"
+}
